@@ -20,7 +20,7 @@
 <p id="demo"></p>
 <p id="pcs"></p>
 <p id="USD"></p>
-<p id="ed"></p>
+<h2 id="ed"></h2>
 
 <script>
 // Set the date we're counting down to
@@ -47,8 +47,8 @@ var x = setInterval(function() {
   + minutes + " minutes  " + seconds + " seconds ";
 
   document.getElementById("pcs").innerHTML = "It's " + Math.floor(secsec / 4320) +" cigarettes";
-  document.getElementById("USD").innerHTML = "And  " + Math.floor(Math.floor(secsec / 4320) * 0.175) + " USD";
-  document.getElementById("ed").innerHTML = "ӏ ".repeat(Math.floor(Math.floor(secsec / 4320) * 0.175)) + " ";
+  document.getElementById("USD").innerHTML = "And  " + Math.floor(Math.floor(secsec / 4320) * 0.175) + " USD / " + Math.floor(Math.floor(secsec / 4320) * 0.175 *79.5) + " RUB";
+  document.getElementById("ed").innerHTML = "| ".repeat(Math.floor(secsec / 4320));
 
   
 

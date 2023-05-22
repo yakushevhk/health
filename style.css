@@ -9,3 +9,11 @@ p {
     font-family: 'Jost', sans-serif;
     word-wrap: normal
 }
+
+h2 {
+    margin-left: 40px;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-family: 'Jost', sans-serif;
+    word-wrap: normal
+}
