@@ -47,7 +47,7 @@ var x = setInterval(function() {
   + minutes + " minutes  " + seconds + " seconds ";
 
   document.getElementById("pcs").innerHTML = "It's " + Math.floor(secsec / 4320) +" cigarettes";
-  document.getElementById("USD").innerHTML = "And  " + Math.floor(Math.floor(secsec / 4320) * 0.175) + " USD / " + Math.floor(Math.floor(secsec / 4320) * 0.175 *79.5) + " RUB";
+  document.getElementById("USD").innerHTML = "And  " + Math.floor(Math.floor(secsec / 4320) * 0.175) + " USD, " + Math.floor(Math.floor(secsec / 4320) * 0.175 *79.5) + " RUB";
   document.getElementById("ed").innerHTML = "| ".repeat(Math.floor(secsec / 4320));
 
   
