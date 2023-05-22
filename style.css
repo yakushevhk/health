@@ -7,7 +7,8 @@ p {
     color: rgb(255, 255, 255);
     font-size: 36px;
     font-family: 'Jost', sans-serif;
-    word-wrap: normal
+    word-wrap: normal;
+    text-decoration: none;
 }
 
 h2 {
@@ -16,4 +17,10 @@ h2 {
     font-size: 20px;
     font-family: 'Jost', sans-serif;
     word-wrap: normal
+    
+}
+
+a {
+    text-decoration: none;
+    
 }
