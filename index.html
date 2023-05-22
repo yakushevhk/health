@@ -5,16 +5,26 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Health</title>
+    <link rel="stylesheet" href="./style.css">
 
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Jost:wght@300&display=swap" rel="stylesheet">
 </head>
 <body>
 
+
+
+<p>Don't Smoke 🚬</p>
     <!-- Display the countdown timer in an element -->
 <p id="demo"></p>
+<p id="pcs"></p>
+<p id="USD"></p>
+<p id="ed"></p>
 
 <script>
 // Set the date we're counting down to
-var countDownDate = new Date("Jan 5, 2024 15:37:25").getTime();
+var countDownDate = new Date("May 18, 2023 15:37:25").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
@@ -23,17 +33,24 @@ var x = setInterval(function() {
   var now = new Date().getTime();
 
   // Find the distance between now and the count down date
-  var distance = countDownDate - now;
+  var distance = now - countDownDate;
 
   // Time calculations for days, hours, minutes and seconds
   var days = Math.floor(distance / (1000 * 60 * 60 * 24));
   var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
   var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
   var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+  var secsec = Math.floor(distance / (1000));
 
   // Display the result in the element with id="demo"
-  document.getElementById("demo").innerHTML = days + "d " + hours + "h "
-  + minutes + "m " + seconds + "s ";
+  document.getElementById("demo").innerHTML = days + " days " + hours + " hours "
+  + minutes + " minutes  " + seconds + " seconds ";
+
+  document.getElementById("pcs").innerHTML = "It's " + Math.floor(secsec / 4320) +" cigarettes";
+  document.getElementById("USD").innerHTML = "And  " + Math.floor(Math.floor(secsec / 4320) * 0.175) + " USD";
+  document.getElementById("ed").innerHTML = "ӏ ".repeat(Math.floor(Math.floor(secsec / 4320) * 0.175)) + " ";
+
+  
 
   // If the count down is finished, write some text
   if (distance < 0) {
@@ -41,6 +58,9 @@ var x = setInterval(function() {
     document.getElementById("demo").innerHTML = "EXPIRED";
   }
 }, 1000);
+
+
+
 </script>
     
 </body>

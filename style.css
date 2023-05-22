@@ -1,0 +1,11 @@
+body {
+    background-color: #000000;
+}
+
+p {
+    margin-left: 40px;
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    font-family: 'Jost', sans-serif;
+    word-wrap: normal
+}
