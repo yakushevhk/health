@@ -1,0 +1,181 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+	<boolean name="oximeter" value="false" />
+	<int name="awake_light_sensitivity" value="2" />
+	<int name="active_tab" value="2131296915" />
+	<boolean name="rate_dislike_c" value="true" />
+	<float name="chronotype" value="-1.0" />
+	<long name="country_update_time" value="1742890241178" />
+	<boolean name="screenlight" value="true" />
+	<boolean name="sound_recognition_noise_mixin" value="false" />
+	<int name="smartlight_max_intensity" value="100" />
+	<string name="current_avg_sleep_length"><![CDATA[-1.0]]></string>
+	<long name="rate_never_ts_d" value="1633674844492" />
+	<boolean name="flip_to_pause" value="false" />
+	<boolean name="tab_addon" value="false" />
+	<string name="gradual_vibration_smartwatch_new"><![CDATA[60000]]></string>
+	<string name="airplane_mode"><![CDATA[0]]></string>
+	<boolean name="unlock_app_installed" value="true" />
+	<string name="showcase_settings_shown2"><![CDATA[tutorial@@@sc_dashboard@@@sc_alarm_list_add_alarm2@@@sc_dashboard_track@@@set_alarm_fullscreen_onboard@@@sc_charts@@@Google_Fit@@@sc_tracking_2]]></string>
+	<string name="settings_temperature"><![CDATA[-1]]></string>
+	<string name="chart_trend_last_selected_title"><![CDATA[Efficiency %]]></string>
+	<boolean name="hr_wear" value="false" />
+	<string name="anti_snoring_response"><![CDATA[0]]></string>
+	<boolean name="mqtt" value="false" />
+	<boolean name="pair_tracking_enabled" value="false" />
+	<long name="key_settings_last_non_snooze_alarm" value="1742885520055" />
+	<boolean name="dashboard" value="false" />
+	<boolean name="webhooks_enabled" value="true" />
+	<boolean name="smartlight_mask_enabled" value="false" />
+	<boolean name="alarm_only" value="false" />
+	<int name="google_fit_record_count" value="488" />
+	<long name="actual_default_ringtone_uri_refresh" value="1742883457707" />
+	<boolean name="tab_noise" value="false" />
+	<string name="noise_input"><![CDATA[0]]></string>
+	<string name="settings_alarm_sorting"><![CDATA[0]]></string>
+	<int name="awake_hr_sensitivity" value="2" />
+	<int name="sonar_audio_stream_vili" value="3" />
+	<int name="awake_activity_sensitivity" value="2" />
+	<string name="delay_tracking"><![CDATA[0]]></string>
+	<boolean name="mute_alerts_priority" value="true" />
+	<int name="non_deep_sleep_sensitivity_checks_new" value="1" />
+	<boolean name="failed_to_initialize_recording" value="false" />
+	<boolean name="smartlight_lucid_dreaming" value="false" />
+	<boolean name="sensor_batching" value="false" />
+	<boolean name="health_user_profile_popup_form_allowed" value="true" />
+	<string name="apnea_alarm_repeat"><![CDATA[5]]></string>
+	<string name="key_nap_minutes_multi"><![CDATA[35-45-15]]></string>
+	<boolean name="ifttt" value="false" />
+	<boolean name="alarm_with_flashlight" value="false" />
+	<boolean name="key_awake_detection_snooze" value="true" />
+	<string name="non_deep_sleep_window_nap"><![CDATA[5]]></string>
+	<boolean name="rate_done_beta_b" value="false" />
+	<int name="sonar_signal_strength2_vili" value="430" />
+	<int name="rate_shown_count_e" value="4" />
+	<string name="non_deep_sleep_window"><![CDATA[30]]></string>
+	<boolean name="hr_bt" value="false" />
+	<long name="key_last_captcha_solved" value="1649667375131" />
+	<string name="play_store_referrer_url"><![CDATA[utm_source=google-play&utm_medium=organic]]></string>
+	<int name="sonar_supported_vili" value="1" />
+	<float name="health_user_profile_weight" value="84.6" />
+	<boolean name="smartlight_sleep_phaser_auto_start" value="false" />
+	<boolean name="status_bar_icon" value="true" />
+	<string name="auto_start_track_smart"><![CDATA[0]]></string>
+	<boolean name="smartlight_anti_snoring" value="false" />
+	<long name="chronotype_last_calculated" value="1742882582492" />
+	<boolean name="alarm_in_silent_mode" value="true" />
+	<string name="theme"><![CDATA[1]]></string>
+	<int name="key_max_geo_freq" value="0" />
+	<boolean name="intent_api" value="true" />
+	<long name="key_settings_next_time_to_bed" value="1742889780000" />
+	<string name="key_auto_kill_snooze_counter"><![CDATA[0]]></string>
+	<boolean name="reliable_alarm_scheduled" value="true" />
+	<string name="antisnoring_loop"><![CDATA[3]]></string>
+	<long name="next_sleep_tracking_restart_timestamp" value="-1" />
+	<string name="google_fit_internal"><![CDATA[enabled]]></string>
+	<boolean name="key_use_google_sleep_api" value="true" />
+	<boolean name="tab_stats" value="false" />
+	<boolean name="tab_dashboard" value="true" />
+	<boolean name="force_english" value="false" />
+	<string name="health_user_profile_gender"><![CDATA[MALE]]></string>
+	<long name="key_use_google_sleep_last_suggestion" value="1742874373537" />
+	<boolean name="google_calendar" value="false" />
+	<string name="key_achievement"><![CDATA[PREMIUM:1@@@SCORE:94@@@TRACK:3307@@@CLOUD:3@@@SMARTLIGHT:4]]></string>
+	<string name="noise_output"><![CDATA[0]]></string>
+	<long name="key_next_media_store_job" value="1743055386468" />
+	<string name="snooze_repeat"><![CDATA[0]]></string>
+	<float name="health_user_profile_height" value="188.0" />
+	<string name="actual_default_ringtone_uri"><![CDATA[file:///system/media/audio/ui/miui_week_ringtone.ogg]]></string>
+	<long name="health_user_profile_birthdate" value="820454400000" />
+	<long name="key_snooze_allowed_till" value="-1" />
+	<int name="theme_last_set" value="2" />
+	<boolean name="transition_animations" value="true" />
+	<string name="alarm_with_flashlight_internal"><![CDATA[disable]]></string>
+	<string name="auto_start_track_internal"><![CDATA[disable]]></string>
+	<boolean name="terms_agreed" value="true" />
+	<boolean name="noise_recording_master_switch" value="false" />
+	<string name="country"><![CDATA[ru]]></string>
+	<long name="google_fit_last_sync" value="1742890243610" />
+	<int name="records_count" value="3307" />
+	<string name="key_next_promo"><![CDATA[2021100321:2021100720:50:1632261474377]]></string>
+	<int name="news_card_shown" value="9" />
+	<string name="week_start"><![CDATA[-1]]></string>
+	<string name="alarm_in_silent_reset"><![CDATA[no]]></string>
+	<string name="pref_migration_needed"><![CDATA[no]]></string>
+	<boolean name="google_fit" value="true" />
+	<boolean name="text_to_speech" value="false" />
+	<string name="last_seen_version"><![CDATA[20250308]]></string>
+	<boolean name="tab_tune" value="true" />
+	<string name="mqtt_client_id"><![CDATA[SleepAsAndroid]]></string>
+	<string name="current_avg_mid_sleep"><![CDATA[-1.0]]></string>
+	<string name="non_deep_sleep_method"><![CDATA[0]]></string>
+	<long name="key_settings_next_scheduled_alarm" value="1742914980000" />
+	<int name="antisnoring_volume" value="50" />
+	<string name="key_current_alarm"><![CDATA[-1]]></string>
+	<boolean name="mute_alerts" value="false" />
+	<boolean name="rate_never_d" value="true" />
+	<string name="selected_wearable"><![CDATA[ADDON_3RD_PARTY_MI_BAND_NOTIFY_FITNESS]]></string>
+	<boolean name="release_notes" value="true" />
+	<string name="smartlight_peelight_time"><![CDATA[-1]]></string>
+	<boolean name="oximeter_alarm" value="false" />
+	<int name="google_fit_connect_failure_count" value="0" />
+	<long name="key_next_promo_attempt" value="1632261474019" />
+	<string name="hour_format"><![CDATA[-1]]></string>
+	<int name="awake_phone_use_sensitivity" value="0" />
+	<long name="key_current_alarm_time" value="0" />
+	<long name="sleep_time_suggestion_last_notification_time" value="1742876725702" />
+	<boolean name="timepicker_material" value="false" />
+	<boolean name="timepicker" value="true" />
+	<boolean name="offscreen_tracking_force" value="false" />
+	<boolean name="hide_droid" value="true" />
+	<long name="play_store_referrer_install_time" value="1717617485" />
+	<string name="ifttt_internal"><![CDATA[disable]]></string>
+	<string name="key_first_use"><![CDATA[no]]></string>
+	<boolean name="tab_graphs" value="true" />
+	<boolean name="rate_done_f" value="true" />
+	<string name="tasker_internal2"><![CDATA[disable]]></string>
+	<boolean name="offscreen_tracking_support" value="false" />
+	<long name="key_last_setting_modification" value="1742890243610" />
+	<int name="sleep_score" value="2" />
+	<long name="rate_later_b" value="1633674843449" />
+	<string name="wake_lock"><![CDATA[4]]></string>
+	<boolean name="smartwatch_vibe_when_connected" value="true" />
+	<boolean name="smartlight_sleep_phaser_sleep_tracking" value="false" />
+	<int name="key_tab_2" value="0" />
+	<string name="dimm"><![CDATA[4]]></string>
+	<string name="webhooks_url"><![CDATA[https://api.telegram.org/bot7102717375:AAFPPxZNnaYlsPhhNBipR6il3f2D5dzbXjc/sendMessage]]></string>
+	<long name="sleep_time_suggestion_scheduled_notification_time" value="1742886000000" />
+	<boolean name="rate_done_e" value="true" />
+	<string name="apnea_alarm_sensitivity"><![CDATA[1]]></string>
+	<boolean name="smartlight_sleep_phaser_smartlight" value="false" />
+	<boolean name="delete_noise_auto" value="true" />
+	<int name="promo_card_shown" value="1" />
+	<string name="smartlight_light_up_after"><![CDATA[2]]></string>
+	<long name="rate_done_ts_d" value="1632563021473" />
+	<string name="graph_color_theme"><![CDATA[0]]></string>
+	<string name="home_screen"><![CDATA[1]]></string>
+	<string name="mqtt_topic"><![CDATA[SleepAsAndroid]]></string>
+	<string name="google_calendar_internal"><![CDATA[disable]]></string>
+	<long name="experiments_seed_pref_fixed" value="1701605477" />
+	<boolean name="tasker2" value="false" />
+	<boolean name="key_last_recording_with_watch" value="false" />
+	<boolean name="cleanup_webview" value="true" />
+	<boolean name="smartlight" value="false" />
+	<int name="key_snooze_minutes" value="10" />
+	<boolean name="noise_stats" value="true" />
+	<long name="last_purchases_update" value="1742882583074" />
+	<boolean name="health_connect" value="false" />
+	<int name="sleep_score_max" value="3" />
+	<int name="sleep_recording_threshold2" value="15" />
+	<string name="sleep_time_suggestion_selected_mode"><![CDATA[1]]></string>
+	<boolean name="expand_all_settings" value="false" />
+	<boolean name="activity_recognition_new_sleep_api" value="true" />
+	<boolean name="act_on_target_sleep_time2" value="false" />
+	<string name="media_decreasing_volume_after"><![CDATA[-1]]></string>
+	<long name="rate_later_play_store" value="1632563021472" />
+	<string name="sonar_method_vili"><![CDATA[CHIRP_18_20]]></string>
+	<boolean name="sleep_recording" value="true" />
+	<boolean name="oximeter_watch" value="false" />
+	<long name="key_last_backup" value="1742883465891" />
+	<int name="awake_sound_sensitivity" value="2" />
+</map>
